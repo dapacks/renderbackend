@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "build": "echo 'No build step required'"
+    "start": "node app.js",
+    "build": "yarn"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
