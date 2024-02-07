@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
       "start": "node app.js",
-    "build": "yarn"
+    "build": "npm install"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
